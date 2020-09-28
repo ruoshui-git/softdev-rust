@@ -4,4 +4,4 @@ Question: do I have to play by the "rules"?
 
 Ans: NoSuchThingException on line 1: there's no such thing as "rules"
 
-Test emojis
+Test Github actions
